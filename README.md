@@ -84,7 +84,7 @@ Abre tu navegador en `http://localhost:8000`
 | Campo      | Valor                      |
 |------------|----------------------------|
 | Email      | admin@concesionario.com    |
-| Contraseña | password                   |
+| Contraseña | password123                 |
 
 ---
 
